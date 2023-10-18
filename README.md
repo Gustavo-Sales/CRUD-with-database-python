@@ -1,6 +1,4 @@
 
-# python-db-to-text-connector
-
 Aplicação em python que faz a ligação entre um banco de dados e arquivos de texto. Todas as manipulações no banco de dados é feita via código.
 ## Bibliotecas utilizadas
 
